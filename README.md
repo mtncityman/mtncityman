@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @mtncityman
-- 👀 I’m interested in Model Railroading
+- Home is Ocala, Florida, USA
+- I'm retired Finance, Software Development, Contract Mgt
+- 👀 I’m interested in Model Railroading Automation both HO & N scale
 - 🌱 I’m currently learning Git and Github
 - 💞️ I’m looking to collaborate on (Nothing now)
 - 📫 How to reach me mtncityman@gmail.com
